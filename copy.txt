@@ -1,0 +1,2 @@
+The line from Orignal.txt
+File to be copied.
